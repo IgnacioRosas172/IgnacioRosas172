@@ -5,7 +5,7 @@
 
 - 🧑🏻‍💻 I’m currently learning **cisco networking, Assembly language & kotlin**
 
-- 📫 How to reach me **ignacio105garcia@gmail.com**
+- 📫 How to reach me **isc.r1223@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
