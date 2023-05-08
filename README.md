@@ -16,7 +16,8 @@
 # 📊 GitHub Stats:
 <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgnacioRosas172&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact_height=40&hide=css"/> </a><br/>
 <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioRosas172&theme=tokyonight&hide_border=false)<br/>
-<br/><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IgnacioRosas172&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact_height=40&hide=css"/> </a>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRosas172&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/IgnacioRosas172)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IgnacioRosas172&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
