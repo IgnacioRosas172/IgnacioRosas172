@@ -4,7 +4,7 @@
 ## 💫 About Me:
 - 🤖 I’m currently working **on my own projects**
 
-- 🧑🏻‍💻 I’m currently learning **cisco networking, Assembly language & kotlin**
+- 🧑🏻‍💻 I’m currently learning **cisco networking, assembler & kotlin**
 
 - 📫 How to reach me **isc.r1223@gmail.com**
 
